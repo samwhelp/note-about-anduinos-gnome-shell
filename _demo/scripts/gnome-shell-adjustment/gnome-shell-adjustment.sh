@@ -240,7 +240,7 @@ mod_gnome_shell_config_for_keybind_custom () {
 
 	## ### Text Editor
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/text-editor/name "'Text_Editor'"
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/text-editor/command "'gedit'"
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/text-editor/command "'gnome-text-editor'"
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/text-editor/binding "'<Shift><Alt>e'"
 
 
@@ -771,9 +771,9 @@ mod_tool_config () {
 
 	mod_tool_nautilus_config
 
-	#mod_tool_gnome_text_editor_config
+	mod_tool_gnome_text_editor_config
 
-	mod_tool_gedit_config
+	#mod_tool_gedit_config
 
 
 	return 0
