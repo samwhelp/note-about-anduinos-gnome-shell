@@ -92,6 +92,10 @@ mod_gnome_shell_config_for_keybind_main () {
 	gsettings set org.gnome.desktop.wm.keybindings begin-resize "['<Super>r']"
 
 
+	gsettings set org.gnome.desktop.wm.keybindings maximize "['<Control><Super>Up']"
+	gsettings set org.gnome.desktop.wm.keybindings minimize "['<Super>x']"
+
+
 	##
 	## ## Window / Switch
 	##
