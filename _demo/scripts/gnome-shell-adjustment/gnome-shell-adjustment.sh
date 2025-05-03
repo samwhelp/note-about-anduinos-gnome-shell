@@ -177,7 +177,8 @@ mod_gnome_shell_config_for_keybind_main () {
 	## ## Screenshot / Recording
 	##
 
-	gsettings set org.gnome.shell.keybindings show-screen-recording-ui "['<Super>v']"
+	#gsettings set org.gnome.shell.keybindings show-screen-recording-ui "['<Super>v']"
+	gsettings set org.gnome.shell.keybindings show-screen-recording-ui "['<Super><Control>v']"
 
 
 
@@ -359,11 +360,21 @@ mod_gnome_shell_config_for_conflict_adjustment () {
 
 
 	##
-	## ## adjust for [window switch]
+	## ## Adjust for [Window / Switch]
 	##
 
 	#gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>s']"
 	gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>F2']"
+
+
+
+	##
+	## ## Adjust for [Screenshot / Recording]
+	##
+
+	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super>v']"
+	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super><Control>v']"
+
 
 
 
