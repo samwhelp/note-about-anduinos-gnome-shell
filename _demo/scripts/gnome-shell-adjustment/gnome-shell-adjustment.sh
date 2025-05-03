@@ -387,6 +387,15 @@ mod_gnome_shell_config_for_conflict_adjustment () {
 	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super><Control>v']"
 
 
+	##
+	## ## Adjust for [Window / Switch] (conflict `Super+Esc`)
+	##
+
+	#gsettings set org.gnome.mutter.keybindings cancel-input-capture "['<Super><Shift>Escape']"
+	#gsettings set org.gnome.mutter.wayland.keybindings restore-shortcuts "['<Super>Escape']"
+	gsettings set org.gnome.mutter.wayland.keybindings restore-shortcuts "['<Super><Control>Escape']"
+
+
 
 
 	return 0
