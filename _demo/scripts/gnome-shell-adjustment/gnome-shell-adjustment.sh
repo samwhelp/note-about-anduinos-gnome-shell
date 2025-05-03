@@ -355,6 +355,21 @@ mod_gnome_shell_config_for_system_config_quick () {
 	return 0
 }
 
+mod_gnome_shell_config_for_conflict_adjustment () {
+
+
+	##
+	## ## adjust for [window switch]
+	##
+
+	#gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>s']"
+	gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>F2']"
+
+
+
+	return 0
+}
+
 
 
 
@@ -747,6 +762,10 @@ mod_tool_gedit_config () {
 
 mod_gnome_shell_config () {
 
+
+
+
+	mod_gnome_shell_config_for_conflict_adjustment
 
 	mod_gnome_shell_config_for_empty_switch_windows
 
