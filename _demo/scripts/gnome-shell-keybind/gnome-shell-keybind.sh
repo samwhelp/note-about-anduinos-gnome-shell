@@ -70,7 +70,7 @@ mod_gnome_shell_config_for_keybind_main () {
 	## ## Window
 	##
 
-	gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q']"
+	gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q', '<Alt>F4']"
 
 	gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "['<Super>w']"
 
