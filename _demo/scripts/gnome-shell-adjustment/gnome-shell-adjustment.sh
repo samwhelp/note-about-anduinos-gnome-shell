@@ -364,16 +364,23 @@ mod_gnome_shell_config_for_conflict_adjustment () {
 
 
 	##
-	## ## Adjust for [Window / Switch]
+	## ## Adjust for [Window / Switch] (conflict `Super+s`)
 	##
 
 	#gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>s']"
 	gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>F2']"
 
 
+	##
+	## ## Adjust for [Window / Close] (conflict `Super+q`)
+	##
+
+	dconf write /org/gnome/shell/extensions/dash-to-panel/shortcut "['<Super>0']"
+	dconf write /org/gnome/shell/extensions/dash-to-panel/shortcut-text "'<Super>0'"
+
 
 	##
-	## ## Adjust for [Screenshot / Recording]
+	## ## Adjust for [Screenshot / Recording] (conflict `Super+v`)
 	##
 
 	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super>v']"
