@@ -70,7 +70,7 @@ mod_gnome_shell_config_for_keybind_main () {
 	## ## Window
 	##
 
-	gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q']"
+	gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q', '<Alt>F4']"
 
 	gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "['<Super>w']"
 
@@ -765,15 +765,35 @@ mod_gnome_shell_config () {
 
 mod_tool_config () {
 
+	##
+	## ## Terminal
+	##
+
 	#mod_tool_ptyxis_config
 	
-	mod_tool_gnome_terminal_config
+	#mod_tool_gnome_terminal_config
+
+
+
+
+	##
+	## ## File Manager
+	##
 
 	mod_tool_nautilus_config
+
+
+
+
+	##
+	## ## Text Editor
+	##
 
 	mod_tool_gnome_text_editor_config
 
 	#mod_tool_gedit_config
+
+
 
 
 	return 0
