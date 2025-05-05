@@ -1,6 +1,6 @@
 ---
 title: 將「常用的應用程式」固定顯示在下方「Panel」(favorite-apps)
-nav_order: 7030
+nav_order: 7031
 has_children: true
 parent: 如何
 ---
