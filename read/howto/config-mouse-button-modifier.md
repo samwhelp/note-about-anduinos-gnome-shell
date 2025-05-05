@@ -74,6 +74,8 @@ dconf write /org/gnome/shell/extensions/arcmenu/arcmenu-hotkey "['<Alt>F1']"
 
 ```
 
+> 可以參考[完整的設定腳本](https://github.com/samwhelp/note-about-anduinos-gnome-shell/blob/gh-pages/_demo/scripts/gnome-shell-keybind/gnome-shell-keybind.sh#L64-L75)
+
 
 
 
