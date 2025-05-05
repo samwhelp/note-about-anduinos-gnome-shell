@@ -115,7 +115,9 @@ parent: 一覽表
 | 按鍵組合      | 功能                | 執行指令                            |
 | ------------- | ------------------- | ----------------------------------- |
 | `Ctrl + Esc`  | 開啟程序管理器      | `gnome-system-monitor`                 |
-| `Win + p`     | 顯示器切換  |   |
+| `Win + p`     | 顯示器切換  | `switch-monitor`  |
+
+> `org.gnome.mutter.keybindings switch-monitor`
 
 
 
@@ -155,8 +157,8 @@ parent: 一覽表
 
 | 按鍵組合     | 功能                        | 設定項目                     |
 | ------------ | --------------------------- | ---------------------------- |
-| `Win + a`    | 聚焦切換到「前面一個視窗」  | `cycle_reverse_windows_key`  |
-| `Win + s`    | 聚焦切換到「後面一個視窗」  | `cycle_windows_key`          |
+| `Win + a`    | 聚焦切換到「前面一個視窗」  | `switch-windows-backward`  |
+| `Win + s`    | 聚焦切換到「後面一個視窗」  | `switch-windows`          |
 
 
 > 一般預設「`Alt + Tab`」綁定「`視窗聚焦切換`」
@@ -166,12 +168,14 @@ parent: 一覽表
 
 ## 切換 / 工作空間
 
+> `org.gnome.desktop.wm.keybindings`
+
 | 按鍵組合   | 功能                      | 設定項目              |
 | ---------- | ------------------------- | --------------------- |
-| `Alt + a`  | 切換到「上一個工作空間」  | `prev_workspace_key`  |
-| `Alt + s`  | 切換到「下一個工作空間」  | `next_workspace_key`  |
+| `Alt + a`  | 切換到「上一個工作空間」  | `switch-to-workspace-left`  |
+| `Alt + s`  | 切換到「下一個工作空間」  | `switch-to-workspace-right`  |
 
-> 也可以在「桌面」，使用「`Alt + [滑鼠中鍵滾動]`」來「切換工作空間」
+> 也可以在「桌面」，使用「`Win + [滑鼠中鍵滾動]`」來「切換工作空間」
 
 
 
