@@ -31,6 +31,7 @@
 | ------- |
 | [AnduinOS Gnome Shell Config](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/note-about-anduinos-gnome-shell/tree/gh-pages/_demo/scripts/gnome-shell-adjustment) |
 
 
 
