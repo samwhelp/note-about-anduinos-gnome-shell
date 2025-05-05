@@ -9,6 +9,16 @@ parent: 如何
 # 設定「Mouse Button Modifier」
 
 
+## 主題
+
+* [相關設定指令](#相關設定指令)
+* [相關議題](#相關議題)
+* [相關應用](#相關應用)
+* [相關連結](#相關連結)
+
+
+
+
 ## 相關設定指令
 
 執行下面指令，將「Mouse Button Modifier」設定「Super鍵」，也就是「Win鍵」。
@@ -39,12 +49,32 @@ gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true
 
 預設按下「Win鍵」會觸發「顯示Overlay」，
 
-為了避免無謂的干擾，我會執行下面指令來[停用這個功能](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/disable-keybind-open-overlay.html)。
+> 為了避免無謂的干擾，我會執行下面指令來[停用這個功能](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/disable-keybind-open-overlay.html)。
 
 
 ``` sh
 gsettings set org.gnome.mutter overlay-key ''
 ```
+
+另外在「AnduinOS」內建有安裝「[Arc Menu](https://gitlab.com/arcmenu/ArcMenu)」這個「Gnome Shell 擴充模組」，
+
+> 所以可以執行下面指令，設定「`Alt + F1`」來切換顯示「Arc Menu」。
+
+``` sh
+
+## 處理衝突綁定，先將下面這兩個設定清空。
+
+gsettings set org.gnome.desktop.wm.keybindings panel-main-menu "[]"
+
+gsettings set org.gnome.shell.extensions.apps-menu apps-menu-toggle-menu "[]"
+
+## 設定「`Alt + F1`」來切換顯示「Arc Menu」。
+
+dconf write /org/gnome/shell/extensions/arcmenu/arcmenu-hotkey "['<Alt>F1']"
+
+```
+
+
 
 
 ## 相關議題
@@ -55,9 +85,13 @@ gsettings set org.gnome.mutter overlay-key ''
 | [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/disable-keybind-open-overlay.html) |
 
 
+
+
 ## 相關應用
 
 * Menu Applet 開發筆記 / [demo-mouse-button-modifier](https://samwhelp.github.io/note-about-menu-applet/read/demo/demo-mouse-button-modifier.html#gnome-shell)
+
+
 
 
 ## 相關連結
