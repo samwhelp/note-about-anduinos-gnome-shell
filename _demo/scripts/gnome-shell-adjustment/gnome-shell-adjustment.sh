@@ -828,7 +828,7 @@ mod_tool_config () {
 	## ## Terminal
 	##
 
-	#mod_tool_ptyxis_config
+	mod_tool_ptyxis_config
 	
 	#mod_tool_gnome_terminal_config
 
