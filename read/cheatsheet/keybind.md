@@ -31,7 +31,7 @@ parent: 一覽表
 | 設定腳本 |
 | ------- |
 | [gnome-shell-keybind](https://github.com/samwhelp/note-about-anduinos-gnome-shell/blob/gh-pages/_demo/scripts/gnome-shell-keybind) |
-| [gnome-shell-adjustment](https://github.com/samwhelp/note-about-anduinos-gnome-shell/tree/gh-pages/_demo/scripts/gnome-shell-adjustment) |
+| [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 

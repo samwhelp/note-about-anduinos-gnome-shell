@@ -20,7 +20,7 @@ has_children: true
 
 | 微調腳本 |
 | ------- |
-| [簡易微調](https://github.com/samwhelp/note-about-anduinos-gnome-shell/tree/gh-pages/_demo/scripts/gnome-shell-adjustment) |
+| [簡易微調](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
