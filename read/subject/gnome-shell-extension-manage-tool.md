@@ -1,11 +1,13 @@
 ---
-title: Gnome Shell Extension Manage Tool
+title: 擴充套件管理工具
 nav_order: 5010
 has_children: true
 ---
 
 
-# Gnome Shell Extension Manage Tool
+# 擴充套件管理工具
+
+
 
 
 ## 主題
@@ -17,6 +19,8 @@ has_children: true
 
 
 ## 統整列表
+
+> Gnome Shell Extension Manage Tool
 
 | Command | Package | Interface |
 | ------- | ------- | --------- |
