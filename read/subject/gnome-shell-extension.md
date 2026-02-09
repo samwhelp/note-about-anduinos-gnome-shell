@@ -12,6 +12,7 @@ has_children: true
 
 ## 主題
 
+* [擴充套件管理工具](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension-management-tool.html)
 * [統整列表](#統整列表)
 
 

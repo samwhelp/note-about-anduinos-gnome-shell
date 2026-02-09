@@ -12,6 +12,7 @@ has_children: true
 
 ## 主題
 
+* [擴充套件](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension.html)
 * [統整列表](#統整列表)
 * [額外工具](#額外工具)
 * [相關討論](#相關討論)
