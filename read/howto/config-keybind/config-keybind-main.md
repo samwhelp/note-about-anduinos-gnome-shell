@@ -47,8 +47,8 @@ grand_parent: 如何
 * [Window / Next](#window--next)
 * [Workspace / Previous](#workspace--previous)
 * [Workspace / Next](#workspace--next)
-* [Overview / Show Apps](#overview--show-apps)
-* [Overview / Scale](#overview--scale)
+* [Overview / Toggle Show Applications](#overview--toggle-show-applications)
+* [Overview / Toggle Show Activities](#overview--toggle-show-activities)
 * [Window / Tiling Move](#window--tiling-move)
 * [Screenshot](#screenshot)
 * [統整](#統整)
@@ -196,7 +196,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "['<Alt
 
 
 
-## Overview / Show Apps
+## Overview / Toggle Show Applications
 
 > 執行下面指令，綁定「`Win + grave`」來切換到「應用程式列表/所有工作空間概覽」。
 
@@ -212,7 +212,7 @@ gsettings set org.gnome.shell.keybindings toggle-application-view "['<Super>grav
 
 
 
-## Overview / Scale
+## Overview / Toggle Show Activities
 
 > 執行下面指令，綁定「`Win + Tab`」來切換到「目前工作空間的所有視窗概覽/所有工作空間概覽」。
 
