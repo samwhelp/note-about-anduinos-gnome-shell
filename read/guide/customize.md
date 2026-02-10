@@ -15,7 +15,7 @@ parent: 概覽
 
 | 微調腳本 | 相關說明 |
 | ------- | ------- |
-| [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) (for nautilus oriented / keybind + nautilus config) | [調整成我個人順手的「鍵盤按鍵綁定」和「滑鼠按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/guide/customize/keybind.html) |
+| [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) (for nautilus oriented | [調整成我個人順手的「鍵盤按鍵綁定」和「滑鼠按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/guide/customize/keybind.html) |
 | [gnome-shell-keybind](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-keybind) (for nautilus oriented) | [調整成我個人順手的「鍵盤按鍵綁定」和「滑鼠按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/guide/customize/keybind.html) |
 | [gnome-shell-keybind](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind) (for thunar oriented) | [調整成我個人順手的「鍵盤按鍵綁定」和「滑鼠按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/guide/customize/keybind.html) |
 | [thunar](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part/thunar) | [關於「啟動常用程式」的相關設定](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/guide/customize/favorite-application.html) |
