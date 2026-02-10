@@ -23,6 +23,12 @@ grand_parent: 概覽
 
 ## 微調腳本
 
+| 微調腳本 |
+| ------- |
+| [thunar](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part/thunar) |
+| [xfce4-terminal](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
+| [xdg-mime-applications](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/xdg-config/xdg-mime-applications) |
+
 
 
 

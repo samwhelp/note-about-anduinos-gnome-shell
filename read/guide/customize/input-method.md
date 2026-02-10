@@ -23,6 +23,10 @@ grand_parent: 概覽
 
 ## 微調腳本
 
+| 微調腳本 |
+| ------- |
+| [fcitx5-chewing](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
 
 
 

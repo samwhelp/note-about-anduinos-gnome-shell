@@ -23,6 +23,10 @@ grand_parent: 概覽
 
 ## 微調腳本
 
+| 微調腳本 |
+| ------- |
+| [variety](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part/variety) |
+
 
 
 

@@ -23,6 +23,12 @@ grand_parent: 概覽
 
 ## 微調腳本
 
+| 微調腳本 |
+| ------- |
+| [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) (for nautilus oriented) |
+| [gnome-shell-keybind](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-keybind) (for nautilus oriented) |
+| [gnome-shell-keybind](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/demo/scripts/alternative/by-filemanager-oriented/thunar/gnome-shell-keybind) (for thunar oriented) |
+
 
 
 

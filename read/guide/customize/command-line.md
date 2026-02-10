@@ -23,6 +23,10 @@ grand_parent: 概覽
 
 ## 微調腳本
 
+| 微調腳本 |
+| ------- |
+| [bash-config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/shell-config/bash-config) |
+
 
 
 
