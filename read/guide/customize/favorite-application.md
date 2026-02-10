@@ -1,5 +1,5 @@
 ---
-title: 關於啟動常用程式的相關設定
+title: 關於「啟動常用程式」的相關設定
 nav_order: 1020
 has_children: false
 parent: 如何微調
@@ -7,7 +7,7 @@ grand_parent: 概覽
 ---
 
 
-# 關於啟動常用程式的相關設定
+# 關於「啟動常用程式」的相關設定
 
 
 
