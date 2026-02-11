@@ -1,5 +1,5 @@
 ---
-title: 關於「Layout」相關的設定
+title: 關於「桌面佈局」相關的設定
 nav_order: 1070
 has_children: false
 parent: 如何微調
@@ -7,7 +7,7 @@ grand_parent: 概覽
 ---
 
 
-# 關於「Layout」相關的設定
+# 關於「桌面佈局」相關的設定
 
 
 

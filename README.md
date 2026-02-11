@@ -21,6 +21,7 @@
 * [如何](#如何)
 * [字型](#字型)
 * [輸入法](#輸入法)
+* [桌面佈局](#桌面佈局)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
@@ -102,6 +103,16 @@
 | [新酷音輸入法](https://samwhelp.github.io/note-about-anduinos/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
 | [嘸蝦米輸入法](https://samwhelp.github.io/note-about-anduinos/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | [微調腳本](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
 | [輕鬆輸入法](https://samwhelp.github.io/note-about-anduinos/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | [微調腳本](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) |
+
+
+
+
+## 桌面佈局
+
+| 桌面佈局 |
+| ------- |
+| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
+| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
 
 
 
