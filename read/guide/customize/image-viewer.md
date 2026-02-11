@@ -1,6 +1,6 @@
 ---
 title: 關於「看圖軟體」相關的設定
-nav_order: 1070
+nav_order: 1080
 has_children: false
 parent: 如何微調
 grand_parent: 概覽
