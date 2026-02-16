@@ -33,7 +33,15 @@
 | ------- |
 | [AnduinOS Gnome Shell Config](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
-| [簡易微調](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+| 簡易微調 |
+| ------- |
+| [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
+| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-maccity) |
 
 
 
