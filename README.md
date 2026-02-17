@@ -54,7 +54,7 @@
 
 
 
-| 桌面佈局 |
+| 實作腳本 |
 | ------- |
 | [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
 | [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
