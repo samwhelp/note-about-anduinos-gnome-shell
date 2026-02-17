@@ -54,6 +54,17 @@
 
 
 
+| 桌面佈局 |
+| ------- |
+| [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
+| [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
+| [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
+| [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
+| [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
+
+
+
+
 ## 按鍵綁定
 
 > [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/cheatsheet/keybind.html)
