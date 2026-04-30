@@ -118,6 +118,7 @@
 | [設定「主要」的「按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/config-keybind/config-keybind-main.html) |
 | [設定「自訂」的「按鍵綁定」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/config-keybind/config-keybind-custom.html) |
 | [將「常用的應用程式」固定顯示在下方「Panel」(favorite-apps)](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/config-favorite-apps.html) |
+| [如何將「Gnome Shell」的外觀，設定看起來像是「AnduinOS」](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/howto/make-gnome-shell-look-like-anduinos.html) |
 
 
 
