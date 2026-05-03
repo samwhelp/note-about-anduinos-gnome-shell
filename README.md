@@ -15,6 +15,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [按鍵綁定](#按鍵綁定)
 * [ISO](#iso)
 * [概覽](#概覽)
@@ -33,25 +34,28 @@
 | ------- |
 | [AnduinOS Gnome Shell Config](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
-
-
-
-
-| 簡易微調 |
-| ------- |
 | [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
-| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
-| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-maccity) |
 
 
 
 
-| [桌面佈局](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout) |
-| ------- |
-| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
-| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
+## 相關資源
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
 
 
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 | make Gnome Shell look like AnduinOS |
@@ -61,15 +65,6 @@
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
 | [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
 | [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
-
-
-
-
-| Gnome Shell Resource |
-| -------------------- |
-| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
-| [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
-| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
@@ -167,6 +162,8 @@
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
 | [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
+| [Voidlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-voidlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-gnome-shell) |
+| [Solus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-solus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-Solus-gnome-shell) |
 | [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
 | [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-garuda-gnome-shell) |
 
