@@ -16,6 +16,7 @@ parent: 如何
 * [相關討論](#相關討論)
 * [設定腳本](#設定腳本)
 * [相關專案](#相關專案)
+* [相關案例](#相關案例)
 
 
 
@@ -45,7 +46,6 @@ GitHub Topics: [make-gnome-shell-look-like-anduinos](https://github.com/topics/m
 
 ## 相關專案
 
-
 | Gnome Shell Layout |
 | ------------------ |
 | [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
@@ -56,3 +56,13 @@ GitHub Topics: [make-gnome-shell-look-like-anduinos](https://github.com/topics/m
 | ----------------- |
 | [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+
+
+## 相關案例
+
+| Gnome Shell Layout Switcher |
+| --------------------------- |
+| Pardus / pardus-gnome-greeter / [LayoutManager](https://github.com/pardus/pardus-gnome-greeter/blob/master/src/pardus_gnome_greeter/managers/LayoutManager.py) / [layout_config.json](https://github.com/pardus/pardus-gnome-greeter/blob/master/data/json/layout_config.json) |
+| Manjaro / [gnome-layout-switcher](https://gitlab.manjaro.org/applications/gnome-layout-switcher) |
