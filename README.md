@@ -86,21 +86,19 @@
 
 ## Build ISO
 
-
 ### AnduinOS-2
 
 | Link | GitHub |
 | ---- | ------ |
 | [AnduinOS-2](https://samwhelp.github.io/AnduinOS-2/) | [GitHub](https://github.com/samwhelp/AnduinOS-2) |
+| [anduinos-iso-builder-template](https://samwhelp.github.io/anduinos-iso-builder-template/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-template) |
 
 
-### AnduinOS-1
 
-> [AnduinOS / ISO Builder / Remix / Gnome Shell](https://samwhelp.github.io/note-about-anduinos-iso-builder/read/project/anduinos-iso-builder-remix-gnome-shell.html)
 
-| Link | GitHub |
-| ---- | ------ |
-| [AnduinOS / ISO Builder / Remix / Gnome Shell](https://samwhelp.github.io/anduinos-iso-builder-remix-gnome-shell/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) |
+| Remix | Respin |
+| ----- | ------ |
+| [anduinos-iso-builder-remix-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell) |
 
 
 
