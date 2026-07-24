@@ -21,6 +21,15 @@ has_children: true
 
 ## 統整列表
 
+> Gnome Shell Extension
+
+| Gnome Shell Extension | Source | Info |
+| --------------------- | ------ | ---- |
+| [date-menu-formatter@marcinjakubowski.github.com](https://extensions.gnome.org/extension/4655/date-menu-formatter/) | [Source](https://github.com/marcinjakubowski/date-menu-formatter) | [Info](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension/date-menu-formatter.html) |
+
+
+
+
 > AnduinOS-1 Gnome Shell Extension
 
 * [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.4/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
@@ -42,15 +51,6 @@ has_children: true
 | [tiling-assistant@leleat-on-github](https://extensions.gnome.org/extension/3733/tiling-assistant/) | [Source](https://github.com/Leleat/Tiling-Assistant) |
 | [mediacontrols@cliffniff.github.com](https://extensions.gnome.org/extension/4470/media-controls/) | [Source](https://github.com/sakithb/media-controls) |
 | [clipboard-indicator@tudmotu.com](https://extensions.gnome.org/extension/779/clipboard-indicator/) | [Source](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) |
-
-
-
-
-> Gnome Shell Extension
-
-| Gnome Shell Extension | Source | Info |
-| --------------------- | ------ | ---- |
-| [date-menu-formatter@marcinjakubowski.github.com](https://extensions.gnome.org/extension/4655/date-menu-formatter/) | [Source](https://github.com/marcinjakubowski/date-menu-formatter) | [Info](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension/date-menu-formatter.html) |
 
 
 
