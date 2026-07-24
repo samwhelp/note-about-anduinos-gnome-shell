@@ -17,6 +17,7 @@
 * [微調腳本](#微調腳本)
 * [相關資源](#相關資源)
 * [按鍵綁定](#按鍵綁定)
+* [擴充套件](#擴充套件)
 * [ISO](#iso)
 * [概覽](#概覽)
 * [如何](#如何)
@@ -82,6 +83,16 @@
 
 
 
+## 擴充套件
+
+| 擴充套件 |
+| ------- |
+| [擴充套件管理工具](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension-management-tool.html) |
+| [擴充套件](https://samwhelp.github.io/note-about-anduinos-gnome-shell/read/subject/gnome-shell-extension.html) |
+
+
+
+
 ## ISO
 
 ## Build ISO
@@ -99,6 +110,7 @@
 | Remix | Respin |
 | ----- | ------ |
 | [anduinos-iso-builder-remix-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell) |
+| [anduinos-iso-builder-remix-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell-with-calamares) | [anduinos-iso-builder-respin-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell-with-calamares) |
 
 
 
